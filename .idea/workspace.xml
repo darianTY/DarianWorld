@@ -1,13 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="case:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a37ab4b5-dcfe-467f-8177-cc58e3a2f4f8" name="默认更改列表" comment="" />
+    <list default="true" id="a37ab4b5-dcfe-467f-8177-cc58e3a2f4f8" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/cn/darian/web/servlet/UserListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/WEB_INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case/web/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/case.iml" beforeDir="false" afterPath="$PROJECT_DIR$/case/case.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/case/web/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1mmkXi6W287sl8TgOxXlzYQVxUG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/case/web/WEB_INF/lib" />
@@ -22,6 +76,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\小霸王桌面\DarianWorld\case\web\WEB_INF\lib" />
+      <recent name="D:\小霸王桌面\DarianWorld\case\web" />
+      <recent name="D:\小霸王桌面\DarianWorld\case\src\cn\darian\util" />
+      <recent name="D:\小霸王桌面\DarianWorld\case\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -105,7 +162,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="运行" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -122,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610106196992</updated>
-      <workItem from="1610106202454" duration="880000" />
+      <workItem from="1610106202454" duration="7357000" />
     </task>
     <servers />
   </component>
@@ -134,6 +201,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610106430099" />
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1610120991895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610120991895" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1610124550091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550091" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1610124550090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550090" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1610124550090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550090" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1610124550090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550090" />
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.1.center" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.1.left" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.1.right" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.2.center" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.2.left" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
+    <state width="1293" height="282" key="GridCell.Tab.2.right" timestamp="1610124550004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610124550004" />
     <state x="670" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1610106202412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
